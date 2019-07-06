@@ -1,0 +1,6 @@
+# test dependencies
+mock==2.0.0
+pylint==1.7.1
+coverage==4.4.1
+nose==1.3.7
+nose2==0.7.4
